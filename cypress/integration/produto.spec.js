@@ -38,5 +38,9 @@ describe('Funcionalidade pagina de produtos', () => {
     
    });
 
+   it.only('Deve adicionar produtos ao carrinho - Usando comando customizado', () => {
+       cy.addProdutos('Abominable Hoodie', 'M', 'Red', 2)
+   });
+
 
 });
