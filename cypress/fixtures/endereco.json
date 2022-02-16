@@ -1,0 +1,45 @@
+[
+    {
+        "nome":"Ana",
+        "sobrenome":"Marcela",
+        "empresa": "correios",
+        "endereco": "riacho fundo1",
+        "numero": "2000",
+        "pais" :"Brasil",
+        "cidade" :"São Paulo",
+        "estado":"São Paulo",
+        "cep": "01000100",
+        "telefone" :"1199993321",
+        "email": "teste@gmail.com"
+    },
+
+    {
+        "nome":"mario",
+        "sobrenome":"Marcelo",
+        "empresa": "Mercado-livre",
+        "endereco": "Riacho fundo 2",
+        "numero": "2011",
+        "pais" :"Brasil",
+        "cidade" :"Brasilia",
+        "estado":"Distrito Federal",
+        "cep": "01000100",
+        "telefone" :"1199993321",
+        "email": "teste1@gmail.com"
+
+    },
+
+    {
+        "nome":"Raquel",
+        "sobrenome":"Marcelo",
+        "empresa": "Mercado-livre",
+        "endereco": "Riacho fundo 2",
+        "numero": "2011",
+        "pais" :"Brasil",
+        "cidade" :"Brasilia",
+        "estado":"São paulo",
+        "cep": "01000100",
+        "telefone" :"1199993321",
+        "email": "teste1@gmail.com"
+
+    }
+]
